@@ -1,7 +1,7 @@
 {
   "name": "druagrswap-sdk",
   "license": "MIT",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "🛠 An SDK for building applications on top of draugrswap.",
   "main": "dist/index.js",
   "module": "dist/sdk.esm.js",
