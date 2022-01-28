@@ -6,7 +6,6 @@
   "main": "dist/index.js",
   "module": "dist/sdk.esm.js",
   "typings": "dist/index.d.ts",
-  "private": true,
   "files": [
     "dist"
   ],
